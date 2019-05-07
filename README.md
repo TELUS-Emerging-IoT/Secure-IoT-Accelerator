@@ -6,7 +6,7 @@ The Secure IoT Accelerator program is intended to enable Canadian Internet of Th
 
 For more information about the accelerator program, visit: https://www.l-spark.com/press-release/l-spark-telus-blackberry-and-solace-launch-accelerator-for-emerging-canadian-iot-ventures/
 
-[alt_text](images/secure_iot_accelerator_program_key_capabilities.png)
+![alt_text](images/secure_iot_accelerator_program_key_capabilities.png)
 
 Youtube: https://www.youtube.com/watch?v=ZL2ADLHl-XQ&feature=youtu.be
 
