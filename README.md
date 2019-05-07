@@ -15,7 +15,7 @@ IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D
 # Resources
 
 ## TELUS
-* Getting Started with TELUS Developer Kit (https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial)
+* ![Getting Started with TELUS Developer Kit](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial) - To help accelerator program participants with setting up the cellular shield, raspberry pi and installing applications required to validate devkit functions and features.
 
 ## Solace
-* Solace Demo Application (https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C)
+* ![Solace Demo Application](https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C) - The Solace MQTT IoT SDK provides secure MQTT connectivity on the IoT Accelerator Device Platform. It includes an example on how to utilise the Telus SIM Secure Storage element to establish a TLS connection to Solace Cloud.
