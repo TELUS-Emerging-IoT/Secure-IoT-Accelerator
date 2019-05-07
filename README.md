@@ -6,7 +6,7 @@ The Secure IoT Accelerator program is intended to enable Canadian Internet of Th
 
 For more information about the accelerator program, visit: https://www.l-spark.com/press-release/l-spark-telus-blackberry-and-solace-launch-accelerator-for-emerging-canadian-iot-ventures/
 
-![alt_text](images/secure_iot_accelerator_program_key_capabilities.png)
+[alt_text](images/secure_iot_accelerator_program_key_capabilities.png)
 
 Youtube: https://www.youtube.com/watch?v=ZL2ADLHl-XQ&feature=youtu.be
 
@@ -15,7 +15,7 @@ IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D
 # Resources
 
 ## TELUS
-* ![Getting Started with TELUS Developer Kit](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial) - To help accelerator program participants with setting up the cellular shield, raspberry pi and installing applications required to validate devkit functions and features.
+* [Getting Started with TELUS Developer Kit](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial) - To help accelerator program participants with setting up the cellular shield, raspberry pi and installing applications required to validate devkit functions and features.
 
 ## Solace
-* ![Solace Demo Application](https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C) - The Solace MQTT IoT SDK provides secure MQTT connectivity on the IoT Accelerator Device Platform. It includes an example on how to utilise the Telus SIM Secure Storage element to establish a TLS connection to Solace Cloud.
+* [Solace Demo Application](https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C) - The Solace MQTT IoT SDK provides secure MQTT connectivity on the IoT Accelerator Device Platform. It includes an example on how to utilise the Telus SIM Secure Storage element to establish a TLS connection to Solace Cloud.
