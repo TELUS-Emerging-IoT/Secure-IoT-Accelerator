@@ -13,3 +13,9 @@ Youtube: https://www.youtube.com/watch?v=ZL2ADLHl-XQ&feature=youtu.be
 IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D-qfgsRB5TrQGfzrThJIY4mG5bUspvZ49OwiZNywIumekTziMw
 
 # Resources
+
+## TELUS
+1. Getting Started with TELUS Developer Kit (https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial)
+
+## solace
+1. Solace Demo Application (https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C)
