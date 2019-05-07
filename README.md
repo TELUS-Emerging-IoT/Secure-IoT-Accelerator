@@ -15,7 +15,7 @@ IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D
 # Resources
 
 ## TELUS
-1. Getting Started with TELUS Developer Kit (https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial)
+* Getting Started with TELUS Developer Kit (https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial)
 
-## solace
-1. Solace Demo Application (https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C)
+## Solace
+* Solace Demo Application (https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C)
