@@ -23,7 +23,7 @@ IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D
 ## Solace
 * [Solace Demo Application](https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C) - The Solace MQTT IoT SDK provides secure MQTT connectivity on the IoT Accelerator Device Platform. It includes an example on how to utilise the Telus SIM Secure Storage element to establish a TLS connection to Solace Cloud.
 
-### Tools & Utilities
+#### Tools & Utilities
 * Demo application on linux instructions: https://github.com/solace-iot-team/solace-iot-device-sdk-embedded-C/blob/master/scc_demo_app.md
 
 * A command line tool to upload device credentials to the SIM Card via the SCC API: https://github.com/solace-iot-team/solace-iot-device-cert-upload/blob/master/README.md
