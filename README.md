@@ -18,6 +18,9 @@ IoT technical information session webinar: https://zoom.us/recording/share/PWJ3D
 * [Getting Started with TELUS Developer Kit](https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial) - To help accelerator program participants with setting up the cellular shield, raspberry pi and installing applications required to validate devkit functions and features.
 
 #### TELUS Shield (Purple)
+
+![alt_text](images/TELUS_shield_purple_board.png)
+
 * If you have the TELUS Shield (purple board), follow this tutorial. https://github.com/TELUS-Emerging-IoT/TELUS-Devkit-Hardware-Tutorial/tree/Updated-TELUS-Cat-M1-Shield
 
 * [Running the Scc demo application](https://github.com/TELUS-Emerging-IoT/Scc-DemoApplication) - This guide shows you how to compile and run the scc demo application, illustrating sim access and security app. 
